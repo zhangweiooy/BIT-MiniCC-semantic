@@ -20,3 +20,5 @@ BIT Mini C Compiler is a C compiler framework in Java for teaching.
 * 2017: Yu Hao
 * 2016: Shuofu Ning
 * 2015: YiFan Wu
+
+在老师的BIT-MiniCC基础上实现了简单的语义分析功能
